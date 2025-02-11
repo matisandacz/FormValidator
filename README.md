@@ -65,4 +65,4 @@ The **Homevision Form Validator** follows a fail-fast approach. It helps users q
 ### 3. Open the Application
 
 Once both the backend and frontend servers are running, open your browser and navigate to:  
-[http://localhost:5173/](http://localhost:5000/)
+[http://localhost:5000/](http://localhost:5000/)
